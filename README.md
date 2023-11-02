@@ -1,6 +1,4 @@
-<h3 align="center">Hi 👋, I'm Ashwin Navange</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinnavange&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinnavange" /> </p>
+<h1 align="center">Hi there!, I'm Ashwin👋</h1>
 
 - 👀 I’m looking to collaborate on **Dart and Flutter Development**
 
