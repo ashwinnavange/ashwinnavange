@@ -6,7 +6,7 @@ Hi there, I'm a driven and passionate Flutter Developer with a solid foundation 
 
 <a href="https://www.x.com/ashwinnavange" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ashwinnavange" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ashwinnavange.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://ashwinnavange.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Resume-%23B92B27.svg?&style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 <!--
 <a href="https://www.codechef.com/users/hades0018" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
