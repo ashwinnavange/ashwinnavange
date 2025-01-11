@@ -1,4 +1,4 @@
-<-- # 🏄‍♂ Ashwin Navange
+ <!-- # 🏄‍♂ Ashwin Navange
 
 **`Flutter Developer`**
 
@@ -15,7 +15,7 @@ Hi there, I'm a driven and passionate Flutter Developer with a solid foundation 
 -->
 
 
-
+<!--
 ## Skills
 
 <p align="left">
